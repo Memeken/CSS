@@ -1,0 +1,167 @@
+#bandeau{
+    background-image: url(bandeau.jpg);
+}
+
+#logo{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+h3{
+    font-family: fantasy;
+    font-weight: bold;
+    height: 15px;
+}
+
+.policebandeau{
+    font-family: monospace;
+}
+
+
+#home{
+    display: inline-block;
+    margin-left: 140px;
+}
+
+#company{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+#portfolio{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+#products{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+#blog{
+    display: inline-block;
+    margin-left: 30px;
+}
+
+#decohome{
+   
+    background:red;
+}
+
+#decocompany{
+   
+    background:yellow;
+}
+
+#decoportfolio{
+    
+    background: green;
+}
+
+#decoproducts{
+   
+    background: blue;
+}
+
+#decoblog{
+    
+    background: purple;
+}
+
+.trait{
+    width:140px;
+    height:5px;
+}
+
+#photopaysage{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.images{
+    margin-left: 50px;
+}
+
+.policeintro{
+    margin-top: 50px;
+    text-align: center;
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 23px;
+}
+
+#bandeau2{
+    background-image: url(bandeau.jpg);
+}
+
+#welcome{
+    margin-top: 200px;
+    margin-left: 80px;
+    
+    }
+
+#latest{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+.titreorange{
+    font-family: fantasy;
+    color: darkorange;
+}
+
+.italique{
+    font-style: italic;
+    color: darkgrey;
+}
+
+#flexible{
+    margin-left: 50px;
+    display: inline-block;
+}
+
+.titrebas{
+    font-family: fantasy;
+    font-weight: 100;
+    color:dimgray;
+}
+
+#twitter{
+    display: inline-block;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+#recent{
+    display: inline-block;
+    margin-left: 50px;
+}
+
+#widgetized{
+    display: inline-block;
+    margin-left: 50px;
+}
+  
+.policetime{
+    font-style: italic;
+    color: darkgrey;
+    font-size: 12px;
+}
+
+.policepieddepage{
+    font-family: fantasy;
+    font-size: 10px;
+    color:darkgray
+}
+
+.copyright{
+    font-family: fantasy;
+    font-size: 10px;
+    color: darkgrey;
+}
+
+.logoreseaux{
+    float: right;
+    margin-left: 200px;
+   
+}
